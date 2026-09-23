@@ -2,6 +2,12 @@
 
 A high-fidelity, production-quality eCommerce storefront built with **React**, **Tailwind CSS**, and **Lucide Icons**, recreating the modern eCommax store design with full responsiveness and interactive features.
 
+
+<img src="Screenshot_1.png" alt="Home page UI">
+
+<img src="Screenshot_2.png" alt="Home page UI">
+
+
 ## ✨ Features
 - **Hero Showcase**: Asymmetric 8:4 hero grid featuring floating 3D DualShock-style Game Controller, auto-rotating carousel, BambooBuds TWS, and HomePod Pro smart speaker.
 - **Iridescent Category Carousel**: Pastel gradient category capsule bar with smooth horizontal scroll navigation across 8 tech categories.
@@ -11,7 +17,7 @@ A high-fidelity, production-quality eCommerce storefront built with **React**, *
 - **Live Search & Autocomplete**: Search bar with real-time suggestion dropdown and trending query tags.
 - **Slide-over Drawers & Modals**: Dynamic Cart Drawer with price calculation, Wishlist Drawer, Quick View modal, and Order Shipment Tracker.
 
-## 🚀 Getting Started
+## 🚀 Use Locally
 
 ### 1. Install Dependencies
 ```bash
